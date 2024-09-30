@@ -16,3 +16,6 @@ Decorator is a structural design pattern that lets you attach new behaviors to o
 4. Concrete Decorators define extra behaviors that can be added to components dynamically. Concrete decorators override methods of the base decorator and execute their behavior either before or after calling the parent method.
 
 5. The Client can wrap components in multiple layers of decorators, as long as it works with all objects via the component interface.
+
+Image and Description source: Dive Into DESIGN PATTERNS by Alexander Shvets <br/>
+Link to the book : https://refactoring.guru/design-patterns/book
